@@ -35,3 +35,17 @@ Your full name is Jason Choi
 
 ### What is Module in Node.js?
 * Answer: A set of functions you want to include in your application.
+
+### URL module
+* The URL module provides utilities for URL resolution and parsing
+* How to use?
+```
+const url = require(`url`);
+```
+* More Details: https://www.c-sharpcorner.com/article/url-module-in-node-js/
+
+### Crypto module
+* It deals with an algorithm that performs data encryption and decryption
+* Used for security purpose like user authentication
+* Example: https://www.pabbly.com/tutorials/crypto-in-node-js/
+
